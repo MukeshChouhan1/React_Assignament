@@ -1,0 +1,13 @@
+.App {
+  text-align: left;
+ padding: 30px;
+}
+
+.square{
+  list-style: square;
+  padding-left: 20px;
+}
+.circle{
+  list-style: circle;
+  padding-left: 20px;
+}
