@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+  background-color: blue;
+  width: 50%;
+  margin: auto;
+}
+
+.circle{
+  list-style: circle;
+}
+.square{
+  list-style: square;
+}
+.Even{
+  color:greenyellow;
+}
+.Odd{
+  color: red;
+}
