@@ -1,0 +1,46 @@
+.App {
+  text-align: center;
+}
+.mainBox{
+  background-color: black;
+  width: 50%;
+  height: auto;
+  margin: auto;
+}
+.heading{
+  color: aqua;
+  font-weight: bold;
+  text-align: center;
+  font-size: 30px;
+}
+.items {
+  display: flex;
+  margin: 30px;
+  background-color: rgb(44, 208, 104);
+  padding: 20px;
+  justify-content: space-between;
+  font-weight: bold;
+}
+
+.items>button {
+  margin-left: 20px;
+  font-weight: bold;
+  font-size: 40px;
+  width: 100px;
+  height: 50px;
+  border-radius: 20px;
+  background-color: rgb(36, 3, 113);
+  color: aqua;
+
+}
+
+.items>span {
+  margin-left: 20px;
+}
+
+.total {
+ margin-right: 40px;
+  font-size: larger;
+  text-align: right;
+  color: bisque;
+}
